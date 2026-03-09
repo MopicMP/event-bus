@@ -1,0 +1,25 @@
+{
+  "name": "event-bus",
+  "version": "1.0.0",
+  "description": "Pub/sub event bus in vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "bus",
+    "event",
+    "js",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/event-bus.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
